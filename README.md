@@ -30,7 +30,6 @@ prompt:
 
 extras:
   - project-scaffolder-extras
-
 ```
 
 ## Contributing
