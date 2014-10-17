@@ -1,27 +1,7 @@
-/**
- * Raw asychronous filter methods.
- *
- * @type {object}
- */
-exports.filtersAsync = require('./lib/async/filters');
-
-/**
- * Raw sychronous filter methods.
- *
- * @type {object}
- */
-exports.filtersSync = require('./lib/sync/filters');
-
-/**
- * Raw asynchronous tag objects.
- *
- * @type {object}
- */
-exports.tagsAsync = require('./lib/async/tags');
-
-/**
- * Raw synchronous tag objects.
- *
- * @type {object}
- */
-exports.tagsSync = require('./lib/sync/tags');
+// # Project Scaffolder Extras
+//
+// ## Components
+//
+// * [folderize.js](sync/filters/folderize.js.html) - Transform a package notation to folderized notation;
+// * [ansibleVariable.js](sync/filters/ansibleVariable.js.html) - A way to dynamically create variable names for templates which are Jinja templates at the end;
+// * [roxKey.js](async/filters/roxKey.html) - Generate ROX Center test keys for a project.
