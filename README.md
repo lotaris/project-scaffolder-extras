@@ -18,6 +18,8 @@ npm install --save project-scaffolder-extras
 <a name="documentation"></a>
 ## Documentation
 
+Feel free to read the [**annotated source code**][annotated-source]
+
 To add those extra `filters` and `tags` just update your `scaff.yml` like below:
 
 ```yml
@@ -47,3 +49,4 @@ Project Scaffolder Extras is licensed under the [MIT License](http://opensource.
 See [LICENSE.txt](LICENSE.txt) for the full text.
 
 [project-scaffolder]: https://github.com/lotaris/project-scaffolder
+[annotated-source]: http://lotaris.github.io/project-scaffolder-extras/annotated/index.js.html
